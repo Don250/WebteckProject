@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33624a4b-ce43-43e9-8435-95eb481fac2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/controller/SoldierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/controller/SoldierController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/model/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/model/Soldier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/securityconfig/CustomAuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/securityconfig/CustomAuthenticationSuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/service/DatabasePDFService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/military_managment_system/service/DatabasePDFService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/contactus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/displayContactus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/edit-student.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/edit-student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/findOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/findOne.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/hom.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/hom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/loginbackup.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/loginbackup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/registration-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/userhome.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/userhome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/military_managment_system/controller/SoldierController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/military_managment_system/controller/SoldierController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/military_managment_system/model/Soldier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/military_managment_system/model/Soldier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/military_managment_system/securityconfig/CustomAuthenticationSuccessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/military_managment_system/securityconfig/CustomAuthenticationSuccessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/contactus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/displayContactus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/edit-student.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/edit-student.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/hom.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/hom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/registration-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/registration-page.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YZyZQIdE7HWcFJwMLgguiYcoho" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/Final_webteck_project-main/military_Managment_system/src/main/java/com/example/military_managment_system/securityconfig&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;baa84b1997d3ed4cb977854c74a10104&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\Final_webteck_project-main\military_Managment_system\src\main\java\com\example\military_managment_system\securityconfig" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MilitaryManagmentSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="military_Managment_system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.military_managment_system.MilitaryManagmentSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33624a4b-ce43-43e9-8435-95eb481fac2f" name="Changes" comment="" />
+      <created>1700747459023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700747459023</updated>
+      <workItem from="1700747466476" duration="13206000" />
+      <workItem from="1701101131444" duration="15250000" />
+      <workItem from="1701118425955" duration="3956000" />
+      <workItem from="1701161134812" duration="37042000" />
+      <workItem from="1701854611570" duration="22383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
